@@ -3189,14 +3189,15 @@ Icon=Color3.fromHex"#52525b",
 Rose={
 Name="Rose",
 
-Accent=Color3.fromHex"#be185d",
-Dialog=Color3.fromHex"#4c0519",
-Outline=Color3.fromHex"#fecdd3",
-Text=Color3.fromHex"#fdf2f8",
-Placeholder=Color3.fromHex"#d67aa6",
-Background=Color3.fromHex"#1f0308",
-Button=Color3.fromHex"#e11d48",
-Icon=Color3.fromHex"#fb7185",
+
+Accent=Color3.fromHex"#223822",
+Dialog=Color3.fromHex"#142314",
+Outline=Color3.fromHex"#648264",
+Text=Color3.fromHex"#f0f8f0",
+Placeholder=Color3.fromHex"#96af96",
+Background=Color3.fromHex"#0a140a",
+Button=Color3.fromHex"#2d552d",
+Icon=Color3.fromHex"#78aa78",
 },
 Plant={
 Name="Plant",
