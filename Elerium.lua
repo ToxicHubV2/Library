@@ -130,6 +130,10 @@ h.Rotation=0
 h.Size=UDim2.new(0, 20, 0, 20)
 h.ZIndex=2
 h.Image="https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=98003173280742"
+pcall(function()
+    writefile("toggle.png", game:HttpGet("https://raw.githubusercontent.com/ToxicHubV2/Library/refs/heads/main/ImageLib.PNG"))
+    h.Image=getcustomasset("toggle.png")
+end)
 i.Name="Base"
 i.Parent=g
 i.BackgroundColor3=Color3.new(0.160784, 0.290196, 0.478431)
